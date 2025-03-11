@@ -18,13 +18,13 @@
 <p>🌱 I’m currently learning Git, Java y GitHub</p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
+<p>👯 I’m looking to collaborate on Projects</p>
 </li>
 <li>
-<p>💬 Ask me about Sql, Java, C#, JavaScript</p>
+<p>💬 Ask me about Sql, Java, C, JavaScript</p>
 </li>
 <li>
-<p>⚡ Fun fact: Me gustan los girasoles.</p>
+<p>⚡ Fun fact: </p>
 </li>
 </ul>
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
