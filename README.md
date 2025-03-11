@@ -91,5 +91,5 @@
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <br>
 <hr>
-<p>Credits: <a href="https://github.com/Aditya664">Aditya Deshmukh</a></p>
+<p>Credits: <a href="https://github.com/Soup-souvik">Soup-souvik</a></p>
 <p>Last Edited on: 04/09/2021</p> 
