@@ -102,8 +102,8 @@ I'm a data scientist with a passion for transforming complex datasets into actio
   <img src="https://github-profile-trophy.vercel.app/?username=soup-souvik&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </div>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- ## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START 
 - [5 Python Tips for Efficient Data Analysis](https://example.com)
 - [Building Your First Machine Learning Model: A Step-by-Step Guide](https://example.com)
 <!-- BLOG-POST-LIST:END -->
