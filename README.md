@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="200" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
+</p>
 <h1 align="center">Hi 👋, I'm Souvik Patra</h1>
 <h3 align="center">Passionate About Data | Exploring Analytics, Insights, and Impact</h3>
 
