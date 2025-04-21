@@ -20,10 +20,10 @@
 <li>
 <p> 📫 How to reach me 
     <p>LinkedIn: https://www.linkedin.com/in/souvikpatra8240/</p>
-    <p>Email:mailto:patrasouvik009@gmail.com.com</p>
+    <p>Email: mailto:patrasouvik009@gmail.com</p>
 </li>
 <li>
-<p>⚡ Fun fact **I can spend hours cleaning messy datasets—it's like solving a puzzle, but with spreadsheets!</p>
+<p>⚡ Fun fact: I can spend hours cleaning messy datasets—it's like solving a puzzle, but with spreadsheets!</p>
 </li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
