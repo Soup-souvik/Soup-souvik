@@ -82,9 +82,7 @@ I'm a data scientist with a passion for transforming complex datasets into actio
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40" style="margin-right:15px"/>
   </a>
     <a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" 
-       alt="Power BI" 
-       style="height: 100px;">
+  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"alt="Power BI" width="40" height="40" style="margin-right:15px"/>
 
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
