@@ -93,7 +93,6 @@ I'm a data scientist with a passion for transforming complex datasets into actio
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
   </a>
 </p>
-
 ## 📈 GitHub Stats
 
 <div align="center">
