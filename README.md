@@ -1,83 +1,72 @@
 <p align="center">
-    <img width="200" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
+    <img width="200" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Souvik Patra Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Souvik Patra</h1>
-<h3 align="center">Passionate About Data | Exploring Analytics, Insights, and Impact</h3>
+<h3 align="center">Data Enthusiast | Analytics Professional | Turning Raw Data into Strategic Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soup-souvik&label=Profile%20views&color=0e75b6&style=flat" alt="soup-souvik" /> </p>
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
-<ul>
-<li>
-<p>🔭 I’m currently working on  ML</p>
-</li>
-<li>
-<p>🌱 I’m currently learning Git, Java y GitHub</p>
-</li>
-<li>
-<p>👯 I’m looking to collaborate on Projects</p>
-</li>
-<li>
-<p> 📫 How to reach me 
-    <p>LinkedIn: https://www.linkedin.com/in/souvikpatra8240/</p>
-    <p>Email: mailto:patrasouvik009@gmail.com</p>
-</li>
-<li>
-<p>⚡ Fun fact: I can spend hours cleaning messy datasets—it's like solving a puzzle, but with spreadsheets!</p>
-</li>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/souvik patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik patra" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h2>Languages & Tools</h2>
-
-<p align="left">
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soup-souvik&label=Profile%20views&color=0e75b6&style=flat" alt="soup-souvik" />
+  <a href="https://linkedin.com/in/souvikpatra8240">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-  </a>
-
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-  </a>
-
-  <!-- Machine Learning -->
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-artificial-intelligence-flaticons-lineal-color-flat-icons.png" alt="Machine Learning" width="40" height="40"/>
+  <a href="mailto:patrasouvik009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
 
-<!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+## 🚀 About Me
+
+<img width="45%" align="right" alt="Working with Data" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+
+I'm a data professional passionate about transforming complex datasets into actionable insights. With expertise in analytics tools and programming, I bridge the gap between raw numbers and business value.
+
+- 🔭 Currently working on **machine learning projects** to solve real-world problems
+- 🌱 Expanding my skills in **data engineering and cloud technologies**
+- 👯 Looking to collaborate on **open-source data projects**
+- 💬 Ask me about **SQL optimization, data visualization, or Python automation**
+- ⚡ Fun fact: I find data cleaning therapeutic - there's something satisfying about transforming messy datasets into pristine analysis-ready formats!
+
+## 🛠️ Technical Toolkit
+
+### Programming & Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C">
+</p>
+
+### Data Analytics & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+</p>
+
+### Web & Other Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=soup-souvik&show_icons=true&theme=radical" alt="Souvik's GitHub Stats">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=soup-souvik&theme=radical" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup-souvik&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/souvikpatra8240">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <a href="mailto:patrasouvik009@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
   </a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soup-souvik&show_icons=true&locale=en&layout=compact" alt="soup-souvik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soup-souvik&show_icons=true&locale=en" alt="soup-souvik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soup-souvik&" alt="soup-souvik" /></p>
+</p>
