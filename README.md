@@ -31,7 +31,6 @@ I'm a data professional passionate about transforming complex datasets into acti
 ### Programming & Databases
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C">
 </p>
