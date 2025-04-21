@@ -18,11 +18,11 @@
 <p>👯 I’m looking to collaborate on Projects</p>
 </li>
 <li>
-
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/souvikpatra8240/) | [Email](mailto:patrasouvik009@gmail.com.com)**
-
-- ⚡ Fun fact **I can spend hours cleaning messy datasets—it's like solving a puzzle, but with spreadsheets!**
-
+<p> 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/souvikpatra8240/) | [Email](mailto:patrasouvik009@gmail.com.com)</p>
+</li>
+<li>
+<p>⚡ Fun fact **I can spend hours cleaning messy datasets—it's like solving a puzzle, but with spreadsheets!</p>
+</li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/souvik patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik patra" height="30" width="40" /></a>
