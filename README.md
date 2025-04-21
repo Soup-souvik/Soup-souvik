@@ -26,6 +26,16 @@ I'm a data professional passionate about transforming complex datasets into acti
 - 💬 Ask me about **SQL optimization, data visualization, or Python automation**
 - ⚡ Fun fact: I find data cleaning therapeutic - there's something satisfying about transforming messy datasets into pristine analysis-ready formats!
 
+## 📳 Contact
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" align="left" height="22px">][website]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" align="left" height="22px" >][facebook]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" align="left" height="22px">][twitter]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" align="left" height="22px">][instagram]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" align="left" height="22px">][linkedin]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" align="left" height="22px">][youtube]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" alt="Twitch" align="left" height="22px" >][twitch]
+<br />
+
 ## 🛠️ Technical Toolkit
 
 ### Programming & Databases
