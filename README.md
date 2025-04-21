@@ -1,6 +1,12 @@
 <p align="center">
     <img width="200" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
 </p>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">
+</p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664">
+<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
+
 <h1 align="center">Hi 👋, I'm Souvik Patra</h1>
 <h3 align="center">Passionate About Data | Exploring Analytics, Insights, and Impact</h3>
 
