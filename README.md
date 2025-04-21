@@ -26,15 +26,15 @@ I'm a data professional passionate about transforming complex datasets into acti
 - 💬 Ask me about **SQL optimization, data visualization, or Python automation**
 - ⚡ Fun fact: I find data cleaning therapeutic - there's something satisfying about transforming messy datasets into pristine analysis-ready formats!
 
-## 📳 Contact## 🌐 Let's Connect
+## 🌐 Let's Connect
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="left" height="28px" style="margin-right:10px;color:#0A66C2"/>][linkedin]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" align="left" height="28px" style="margin-right:10px;color:#1877F2"/>][facebook]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" align="left" height="28px" style="margin-right:10px;color:#1DA1F2"/>][twitter]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" align="left" height="28px" style="margin-right:10px;color:#E4405F"/>][instagram]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" align="left" height="28px" style="margin-right:10px;color:#181717"/>][github]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="28px" style="margin-right:10px"/>][linkedin]
+[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="28px" style="margin-right:10px"/>][facebook]
+[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="28px" style="margin-right:10px"/>][twitter]
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="28px" style="margin-right:10px"/>][instagram]
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="28px" style="margin-right:10px"/>][github]
 
-<br/><br/>
+<br/>
 
 [linkedin]: https://linkedin.com/in/souvikpatra8240
 [facebook]: https://facebook.com/yourprofile
