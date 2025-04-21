@@ -1,16 +1,23 @@
 <p align="center">
     <img width="200" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
 </p>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p align="center">
-</p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
-
 <h1 align="center">Hi 👋, I'm Souvik Patra</h1>
 <h3 align="center">Passionate About Data | Exploring Analytics, Insights, and Impact</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soup-souvik&label=Profile%20views&color=0e75b6&style=flat" alt="soup-souvik" /> </p>
+<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<ul>
+<li>
+<p>🔭 I’m currently working on  ML</p>
+</li>
+<li>
+<p>🌱 I’m currently learning Git, Java y GitHub</p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate on Projects</p>
+</li>
+<li>
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/souvikpatra8240/) | [Email](mailto:patrasouvik009@gmail.com.com)**
 
