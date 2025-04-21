@@ -33,16 +33,18 @@ I'm a data scientist with a passion for transforming complex datasets into actio
 ## 🌐 Let's Connect
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="28px" style="margin-right:10px"/>][linkedin]
-[<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="28px" style="margin-right:10px"/>][github]
+[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="28px" style="margin-right:10px"/>][facebook]
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="28px" style="margin-right:10px"/>][twitter]
-[<img src="https://img.icons8.com/fluency/48/000000/medium-monogram.png" alt="Medium" width="28px" style="margin-right:10px"/>][medium]
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="28px" style="margin-right:10px"/>][instagram]
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="28px" style="margin-right:10px"/>][github]
 
 <br/>
 
 [linkedin]: https://linkedin.com/in/souvikpatra8240
+[facebook]: https://www.facebook.com/share/18qiyq5rDf/
 [twitter]: https://x.com/S0uVikPAtrA_?t=zp5Dxjy8djwIm1AGKt8r9g&s=09
+[instagram]: https://www.instagram.com/s0uvik._/profilecard/?igsh=MTl3Zno5ZXAzOGg1cg==
 [github]: https://github.com/soup-souvik
-[medium]: [Your Medium Profile URL]
 
 ## 🛠️ Technical Stack
 
