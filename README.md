@@ -70,29 +70,28 @@ I'm a data scientist with a passion for transforming complex datasets into actio
   </a>
 </p>
 
-### Data Visualization
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-5B8AC6?logo=python&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau">
-</p>
 
-### Databases & Big Data
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
-</p>
 
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
+### Data Science & Analytics
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:15px"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right:15px"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin-right:15px"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="margin-right:15px"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="margin-right:15px"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+  </a>
 </p>
 
 ## 📈 GitHub Stats
