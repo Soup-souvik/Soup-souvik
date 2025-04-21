@@ -33,7 +33,9 @@ I'm a data professional passionate about transforming complex datasets into acti
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="28px" style="margin-right:10px"/>][twitter]
 [<img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="28px" style="margin-right:10px"/>][facebook]
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="28px" style="margin-right:10px"/>][instagram]
+
 <br/>
+
 [linkedin]: https://linkedin.com/in/souvikpatra8240
 [facebook]: https://www.facebook.com/share/18qiyq5rDf/
 [twitter]: https://x.com/S0uVikPAtrA_?t=zp5Dxjy8djwIm1AGKt8r9g&s=09
