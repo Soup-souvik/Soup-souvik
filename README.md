@@ -70,10 +70,6 @@ I'm a data scientist with a passion for transforming complex datasets into actio
   </a>
 </p>
 
-
-
-## 🛠️ Technical Stack
-
 ### Data Visualization
 <p align="left">
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
@@ -86,7 +82,7 @@ I'm a data scientist with a passion for transforming complex datasets into actio
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40" style="margin-right:15px"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" alt="Power BI" width="40" height="40" style="margin-right:15px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="Power BI" width="40" height="40" style="margin-right:15px"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
