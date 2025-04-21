@@ -18,7 +18,9 @@
 <p>👯 I’m looking to collaborate on Projects</p>
 </li>
 <li>
-<p> 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/souvikpatra8240/) | [Email](mailto:patrasouvik009@gmail.com.com)</p>
+<p> 📫 How to reach me 
+    <p>LinkedIn: https://www.linkedin.com/in/souvikpatra8240/</p>
+    <p>Email:mailto:patrasouvik009@gmail.com.com</p>
 </li>
 <li>
 <p>⚡ Fun fact **I can spend hours cleaning messy datasets—it's like solving a puzzle, but with spreadsheets!</p>
