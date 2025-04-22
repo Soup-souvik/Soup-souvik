@@ -89,7 +89,7 @@ I'm a data scientist with a passion for transforming complex datasets into actio
 ### 📉 Business Intelligence Tools
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI"  style="height: 100px;">
+  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI"  style="height: 10px;">
 </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40" style="margin: 0 10px"/>
