@@ -122,8 +122,7 @@ I'm a data scientist with a passion for transforming complex datasets into actio
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup-souvik&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
-  <img width="48%" src=" https://github-readme-activity-graph.vercel.app/graph?username=soup-souvik&theme=dracula" alt="Productive Time">
-  
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=soup-souvik&theme=dracula" alt="Productive Time">
 </div>
 
 ## 🏆 GitHub Trophies
